@@ -144,6 +144,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/", "Home"),
         ("/blog/", "Blog"),
+        ("https://github.com/uaaccess/uaaccess", "Sourcecode"),
         ("/contact/", "Contact us"),
     ),
 }
