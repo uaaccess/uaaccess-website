@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://uaaccess.org/galleries/rss.xml</loc>
-  <lastmod>2024-12-25T08:04:00Z</lastmod>
+  <lastmod>2024-12-25T08:12:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://uaaccess.org/rss.xml</loc>
@@ -15,6 +15,6 @@
  </sitemap>
  <sitemap>
   <loc>https://uaaccess.org/sitemap.xml</loc>
-  <lastmod>2024-12-25T08:04:00Z</lastmod>
+  <lastmod>2024-12-25T08:12:00Z</lastmod>
  </sitemap>
 </sitemapindex>
