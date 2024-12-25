@@ -1,0 +1,4 @@
+Sitemap: https://uaaccess.org/sitemapindex.xml
+
+User-Agent: *
+Host: uaaccess.org
