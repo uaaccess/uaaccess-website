@@ -16,7 +16,7 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Carter Temm, UA Access contributors"  # (translatable)
+BLOG_AUTHOR = "UA Access contributors"  # (translatable)
 BLOG_TITLE = "UA Access"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
@@ -144,7 +144,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/", "Home"),
         ("/blog/", "Blog"),
-        ("https://github.com/uaaccess/uaaccess", "Sourcecode"),
+        ("https://github.com/uaaccess/uaaccess", "Source code (on GitHub)"),
         ("/contact/", "Contact us"),
     ),
 }
@@ -955,7 +955,7 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = '&copy; {date}         <a href="mailto:{email}">{author}</a>'
+CONTENT_FOOTER = '&copy; {date} <a href="mailto:{email}">{author}</a>'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
