@@ -728,7 +728,7 @@ GITHUB_COMMIT_SOURCE = True
 
 # File blacklist for header permalinks. Contains output path
 # (eg. 'output/index.html')
-# HEADER_PERMALINKS_FILE_BLACKLIST = []
+HEADER_PERMALINKS_FILE_BLACKLIST = ["output/index.html", "index.html"]
 
 # Expert setting! Create a gzipped copy of each generated file. Cheap server-
 # side optimization for very high traffic sites or low memory servers.
