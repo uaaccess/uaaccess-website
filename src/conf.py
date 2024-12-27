@@ -16,8 +16,8 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "UA Access contributors"  # (translatable)
-BLOG_TITLE = "UA Access"  # (translatable)
+BLOG_AUTHOR = "UAAccess contributors"  # (translatable)
+BLOG_TITLE = "UAAccess"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://uaaccess.org/"
@@ -25,7 +25,7 @@ SITE_URL = "https://uaaccess.org/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://uaaccess.org/"
 BLOG_EMAIL = "webmaster@uaaccess.org"
-BLOG_DESCRIPTION = "The primary website for the Universal Audio Accessibility (UA Access) project."  # (translatable)
+BLOG_DESCRIPTION = "The primary website for the Universal Audio Accessibility (UAAccess) project."  # (translatable)
 
 # Nikola is multilingual!
 #

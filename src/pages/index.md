@@ -2,33 +2,32 @@
 .. title: Home
 .. slug: index
 .. date: 2024-12-23 14:37:13 UTC-07:00
-.. description: UAAccess is an application that makes the software for the Apollo audio interface Console work with screen readers for the benefit of blind or visually impaired audio engineers.
+.. description: UAAccess is a screen-reader-accessible alternative to the Universal Audio Console software for the benefit of blind or visually impaired artists and producers.
 .. type: text
 -->
 
-Hello, and welcome to the UA Access project!
+Hello, and welcome to the UAAccess project!
 
 Discover an accessible, seamless way to interact with your Apollo audio interface.
 
 # What is it?
 
-UAAccess is a powerful alternative frontend to the popular [Apollo](https://www.uaudio.com/blog/apollo-faq/) high resolution audio interface from Universal audio.
-
-It's a thoughtfully designed application that ensures the most important features of the Apollo Console software can be used seamlessly with a screen reader.
+UAAccess is a powerful alternative frontend to the Universal Audio Console software that ensures the most essential features of the Apollo line of audio interfaces are seamlessly accessible with a screen reader.
 
 # But Why?
 
-Apollo is the go-to interface for  audio engineers everywhere, thanks to it's unmatched clarity, depth, and quality. The onboard realtime digital signal processing brings about low latency, while the hardware enables studio quality results across a wide variety of environments.
+[Universal Audio](https://www.uaudio.com/) is among the industry leaders in Thunderbolt audio interfaces and analog recording hardware, renowned for its high-quality UAD audio plug-ins and meticulous software emulations of legendary hardware units, including the Neve 1073 and Avalon VT-737 microphone preamplifiers. Apollo is the go-to interface for top artists and producers across the globe, thanks to its elite-class 24-bit / 192 kHz audio conversion and unmatched clarity, depth, and quality. The onboard real-time digital signal processing and Unison™ preamps bring timeless sound and legendary UA craftsmanship right to your studio.
 
-There's just one problem... accessibility. Until UAAccess, anyone who wanted the best in mixing and mastering hardware but happened to be blind was out of luck.
+There's just one problem: accessibility. Before UAAccess, blind users who wanted access to Universal Audio's recording and mixing hardware ecosystem were limited to solutions that either offered minimal screen reader support or required additional hardware purchases. Unfortunately, repeated attempts to receive support from Universal Audio to address these shortcomings have been unsuccessful.
 
-Imagine dropping thousands of dollars in hard earned money on a product you thought would elevate your workflow, just to find out that you couldn't use it at all? That was us. We're a team of blind and visually impaired technologists who did that, we just didn't feel like taking it back.
+Imagine investing thousands of hard-earned dollars into a product you believed would elevate your workflow, only to discover you couldn't use it at all. That was us. We're a team of blind and visually impaired technologists who faced this exact challenge but refused to give up on our craft and ambitions. We weren't willing to forfeit the opportunity to utilize industry-standard hardware simply because of accessibility barriers.
 
 # Key Features
 
-* Full compatibility with today's most popular screen readers: JAWS, NVDA, and Voiceover.
-* It's cross-Platform. UAAccess works on MacOS and Windows, and doesn't care what DAW or environment you use.
-* Intuitive design for quick and efficient navigation.
-* Realtime announcements when hardware changes are detected.
-* Configure sends, preamps, inputs, outputs, and AUX channels.
-* Under active development, with plans for much more.
+* Full compatibility with today's most popular screen readers (JAWS, NVDA, VoiceOver)
+* Cross-Platform: UAAccess works on MacOS and Windows and is DAW-agnostic
+* Intuitive design for quick and efficient navigation
+* Real-time screen reader announcements when hardware changes are detected
+* Accessibly configure sends, preamps, inputs, outputs, and AUX channels from an easy-to-use software interface
+* Compatible with solutions like [Tailscale](https://tailscale.com/) for remote control of Apollo hardware, testing and development
+* Actively being developed
