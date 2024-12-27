@@ -15,12 +15,12 @@ We came together when our resident audio engineer, Dan Gililov, pointed out that
 
 Ethin is a software engineer interested in low-level code and embedded systems. He holds a BS in computer science from Minot State University.
 
-"I got involved in the UAAccess project when Dan told me how inaccessible the software was. Accessibility and equality has always been very important to me, and I have always strived to push accessibility into as many domains as I can manage. When both Dan and I determined that existing solutions to bridge the gap between the console software and associated tools were insufficient, we set out to fill that gap with what was necessary."
+> I got involved in the UAAccess project when Dan told me how inaccessible the software was. Accessibility and equality has always been very important to me, and I have always strived to push accessibility into as many domains as I can manage. When both Dan and I determined that existing solutions to bridge the gap between the console software and associated tools were insufficient, we set out to fill that gap with what was necessary.
 
 Feel free to take a look at
 
-* [Ethin's Linkedin](https://www.linkedin.com/in/ethin-probst-6344b5182)
-* [Ethin's Github](https://github.com/ethindp)
+* [Ethin's GitHub](https://github.com/ethindp)
+* [Ethin's LinkedIn](https://www.linkedin.com/in/ethin-probst-6344b5182)
 
 ## Carter Temm
 
@@ -30,8 +30,8 @@ He is passionate about universal access and giving people the tools to live fulf
 
 Carter maintains a few open-source projects and writes online. You can check out:
 
-* [Carter's Github](https://github.com/cartertemm)
-* [Carter's Linkedin](https://www.linkedin.com/in/carter-temm-47081a188)
+* [Carter's GitHub](https://github.com/cartertemm)
+* [Carter's LinkedIn](https://www.linkedin.com/in/carter-temm-47081a188)
 
 ## Dan Gililov
 
