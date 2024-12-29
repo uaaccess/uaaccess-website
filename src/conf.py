@@ -143,6 +143,7 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/", "Home"),
+        ("/download/", "Download"),
         ("/blog/", "Blog"),
         ("https://github.com/uaaccess/uaaccess", "Source code (on GitHub)"),
         ("/about-us/", "About us"),
