@@ -145,6 +145,7 @@ NAVIGATION_LINKS = {
         ("/", "Home"),
         ("/blog/", "Blog"),
         ("https://github.com/uaaccess/uaaccess", "Source code (on GitHub)"),
+        ("/about-us/", "About us"),
         ("/contact/", "Contact us"),
     ),
 }
