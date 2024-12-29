@@ -7,7 +7,7 @@
 
 # Who are we?
 
-We are a group of blind professionals who believe, among other things, that cognitive and physical impairment shouldn't be the obstacle that stands in the way of high quality music production.
+We are a group of blind professionals who believe, among other things, that cognitive and physical impairment shouldn't be an obstacle that stands in the way of high quality music production.
 
 We came together when our resident audio engineer, Dan Gililov, pointed out that he was entirely unable to use the Apollo interface and was told by the product team that "accessibility was a feature" they were not willing to add. That just didn't sit well with us.
 
