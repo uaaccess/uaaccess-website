@@ -35,4 +35,14 @@ Carter maintains a few open-source projects and writes online. You can check out
 
 ## Dan Gililov
 
+Dan is an audio engineer, producer, musician, songwriter, artist, programmer, and advocate with a passion for accessible music production. Based in Toronto, he is deeply committed to empowering blind and visually impaired artists to fully express themselves in the studio and beyond.
+Along with Carter, he has collaborated with industry leaders such as [Antares Audio Technologies](https://antarestech.com/) (the makers of Auto-Tune®) to advocate for and implement accessibility improvements in professional music software.
+
+> My journey into founding UAAccess was inspired by my own experiences navigating the countless challenges of inaccessible software and hardware. As a totally blind user of technology in a predominantly sighted world, I have firsthand knowledge of how technical barriers can stifle creative potential and put disabled individuals such as myself at a disadvantage in all walks of life. Given this, I've steadily made it my mission to break down these barriers through collaboration, innovation, and advocacy. My dream is to one day live in a world where any creator (regardless of disability) can walk into a studio and work without limitations, and I truly believe that genuine inclusion begins with education and equal access to opportunities for all.
+
+Feel free to check out:
+
+* [Dan's GitHub](https://github.com/orderofdan)
+* [Dan's LinkedIn](https://linkedin.com/in/dangililov)
+
 ## Ivan Soto
