@@ -46,3 +46,5 @@ Feel free to check out:
 * [Dan's LinkedIn](https://linkedin.com/in/dangililov)
 
 ## Ivan Soto
+
+Driven by the belief that technology should be inclusive, Ivan Soto is a software developer specializing in accessibility. He collaborates with small businesses and universities to transform digital content into seamless experiences for low-vision and blind users. This commitment extends to creating engaging audio games that demonstrate the power of auditory and textual interfaces. Beyond development, Ivan has experience in helping  individuals with low vision and blindness by providing personalized training on assistive technologies across iOS, Android, and Windows and Mac computers.
