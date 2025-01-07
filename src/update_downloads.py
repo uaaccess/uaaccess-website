@@ -18,7 +18,7 @@ DOWNLOAD_FILE_TEMPLATE = """
 
 This page contains the most recent binary releases of UAAccess for MacOS and Windows.
 
-If you would like to contribute or simply see how the code works, this is an open-source project, feel free to do so by clicking on the sourcecode link in the navigation above. It can also be found under the "app" folder in the portable release or whereever your app is installed. Happy hacking!
+If you would like to contribute or simply see how the code works, this is an open-source project, feel free to do so by clicking on the sourcecode link in the navigation above. It can also be found under the "app" folder in the portable release or where ever your app is installed. Happy hacking!
 
 """
 
